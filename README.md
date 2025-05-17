@@ -21,7 +21,7 @@ Live Demo: 👉 [flutter-counter-ed756.web.app](https://flutter-counter-ed756.we
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/flutter-counter.git
+git clone https://github.com/Tinker-Bits/flutter_counter.git
 cd flutter-counter
 flutter pub get
 flutter run
